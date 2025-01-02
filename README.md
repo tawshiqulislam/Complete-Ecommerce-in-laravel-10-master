@@ -2,7 +2,7 @@ Production raedy E-commerce, ready to launch.
 - Suitable for small business.
 - Completely ready. Just use domain and hosting and launch the website.
 
-### For Installation:      ***Delete the composer.lock file first (recommended)***
+### For Installation:
     composer Install
     npm install
     npm run dev
