@@ -1,4 +1,4 @@
-Production raedy E-commerce, ready to launch.
+The production-ready E-commerce website, ready to launch, built with **Laravel 10**.
 - Suitable for small business.
 - Completely ready. Just use domain and hosting and launch the website.
 
